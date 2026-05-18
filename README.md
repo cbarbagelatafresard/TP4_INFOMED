@@ -1,6 +1,6 @@
 # TP4_BarbagelataSteverlynckMaurizio
 
-![ITBA](https://www.itba.edu.ar/wp-content/uploads/2021/08/logo-itba.png)
+![ITBA](itba.png)
 
 ## Bases de datos y manejo de versiones
 

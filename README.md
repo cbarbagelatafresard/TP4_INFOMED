@@ -1,68 +1,34 @@
 # TP4_BarbagelataSteverlynckMaurizio
 
+![ITBA](https://www.itba.edu.ar/wp-content/uploads/2021/08/logo-itba.png)
 
+## Bases de datos y manejo de versiones
 
-<img src="https://www.itba.edu.ar/wp-content/uploads/2021/08/logo-itba.png" width="200"/>
+**Materia:** Informática Médica  
+**Institución:** Instituto Tecnológico de Buenos Aires (ITBA)
 
+---
 
-
-\## Bases de datos y manejo de versiones
-
-
-
-\*\*Materia:\*\* Informática Médica  
-
-\*\*Institución:\*\* Instituto Tecnológico de Buenos Aires (ITBA)
-
-
-
-\---
-
-
-
-\## Integrantes
-
-
+## Integrantes
 
 | Nombre | Usuario GitHub |
-
 |--------|---------------|
+| Camila Barbagelata Fresard | [@cbarbagelatafresard](https://github.com/cbarbagelatafresard) |
+| Inés María Steverlynck | [@isteverlynck](https://github.com/isteverlynck) |
+| Mora Maurizio | [@mmaurizio](https://github.com/mmaurizio) |
 
-| Camila Barbagelata Fresard | \[@cbarbagelatafresard](https://github.com/cbarbagelatafresard) |
+---
 
-| Inés María Steverlynck | \[@isteverlynck](https://github.com/isteverlynck) |
+## Cuerpo docente
 
-| Mora Maurizio | \[@mmaurizio](https://github.com/mmaurizio) |
+- Carlos Lazzarino  
+- Melina Leonor Piacentino — [@meli-piacentino](https://github.com/meli-piacentino)  
+- Ingrid Celia Spessotti — [@Ladeluno](https://github.com/Ladeluno)
 
+---
 
+## Contenido del repositorio
 
-\---
-
-
-
-\## Cuerpo docente
-
-
-
-\- Carlos Lazzarino  
-
-\- Melina Leonor Piacentino — \[@meli-piacentino](https://github.com/meli-piacentino)  
-
-\- Ingrid Celia Spessotti — \[@Ladeluno](https://github.com/Ladeluno)
-
-
-
-\---
-
-
-
-\## Contenido del repositorio
-
-
-
-\- \*\*Parte 1:\*\* Modelado de base de datos (ER y Relacional)
-
-\- \*\*Parte 2:\*\* Consultas SQL
-
-\- \*\*Parte 3:\*\* Manejo de versiones con Git y GitHub
-
+- **Parte 1:** Modelado de base de datos (ER y Relacional)
+- **Parte 2:** Consultas SQL
+- **Parte 3:** Manejo de versiones con Git y GitHub

@@ -2,7 +2,7 @@
 
 
 
-!\[ITBA Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/ITBA\_logo.png/320px-ITBA\_logo.png)
+<img src="https://www.itba.edu.ar/wp-content/uploads/2021/08/logo-itba.png" width="200"/>
 
 
 
@@ -30,9 +30,9 @@
 
 | Camila Barbagelata Fresard | \[@cbarbagelatafresard](https://github.com/cbarbagelatafresard) |
 
-| Inés María Steverlynck | \[@isteverlynck](https://github.com/USUARIO\_INES) |
+| Inés María Steverlynck | \[@isteverlynck](https://github.com/isteverlynck) |
 
-| Mora Maurizio | \[@mmaurizio](https://github.com/USUARIO\_MORA) |
+| Mora Maurizio | \[@mmaurizio](https://github.com/mmaurizio) |
 
 
 
